@@ -7,6 +7,17 @@
     {
       "content": "the best featrure ever <3",
       "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "content": "this course is cool",
+      "id": 4
+    },
+    {
+      "content": "I'm traveling to the US this year",
+      "id": 5
     }
   ],
   "persons": [
@@ -19,6 +30,11 @@
       "name": "kaltsoon",
       "number": "045-2323456",
       "id": 2
+    },
+    {
+      "name": "Santiago",
+      "number": "12345 road",
+      "id": 3
     }
   ]
 }
